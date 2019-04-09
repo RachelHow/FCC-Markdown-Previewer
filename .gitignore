@@ -20,11 +20,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-lib/custom.bash
-aliases/custom.aliases.bash
-completion/custom.completion.bash
-lib/custom.bash
-plugins/custom.plugins.bash
 .vscode
 favicon.ico
 logo.svg
